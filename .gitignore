@@ -1,0 +1,14 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.out*
+*.hcl*
+*.terraform*
+*.terraform.lock.hcl*
+*id_rsa*
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.idea
